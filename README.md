@@ -1,0 +1,1 @@
+# fotopia-fullstack-dev-assessment
