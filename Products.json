@@ -56,7 +56,7 @@
   }{
     "name": "Apple iPhone 6 a1549 16GB Space Gray Unlocked (Certified Refurbished)",
     "image": "https://images-na.ssl-images-amazon.com/images/I/51bvItLxhqL.jpg",
-    "price": 173.97,
+    "price": '173.97',
     "category": {
       "id": 2,
       "name": "Mobile Phones"
@@ -65,7 +65,7 @@
   }{
     "name": "ASUS VivoBook S Thin & Light Laptop, 14 inch FHD, Intel Core i7-8550U up to 4.00 GHz, GeForce MX150, 8GB RAM, 256GB SSD, NanoEdge Bezel, Backlit Keyboard, FP Sensor - S410UN-NS74",
     "image": "https://images-na.ssl-images-amazon.com/images/I/81CXyTkBjWL._SX679_.jpg",
-    "price": 799,
+    "price": '799',
     "category": {
       "id": 3,
       "name": "Laptops"
@@ -74,7 +74,7 @@
   }{
     "name": "HIDevolution Aorus X9 DT 17.3” FHD 144Hz G-Sync Gaming Laptop | 2.9 GHz i9-8950H, GTX 1080, 64GB DDR4/2666MHz RAM, PCIe 2TB SSD + 4TB SSD | Authorized Performance Upgrades & Warranty",
     "image": "https://images-na.ssl-images-amazon.com/images/I/61t6xBAVFrL._SX679_.jpg",
-    "price": 7239,
+    "price": '7239',
     "category": {
       "id": 3,
       "name": "Laptops"
