@@ -1,0 +1,83 @@
+{
+    "name": "Kingston HyperX Cloud Alpha Gaming Headset (HX-HSCA-RD/AM)",
+    "image": "https://www.egprices.com/images/thumb/hx-hsca-rdam.jpg",
+    "price": '2,500',
+    "category": {
+      "id": 1,
+      "name": "Computer Accessories"
+    },
+    "brand": "Kingston"
+  }
+  {
+    "name": "MSI MAG Z390 TOMAHAWK Socket LGA 1151 Motherboard",
+    "image": "https://www.egprices.com//images/thumb/msi_mag_z390_tomahawk.jpg",
+    "price": '3,550',
+    "category": {
+      "id": 1,
+      "name": "Computer Components"
+    },
+    "brand": "MSI"
+  }{
+    "name": "Corsair Vengeance LPX 16GB (1 X 16GB) DDR4 3000MHz C15 V1.35 Memory Kit (CMK16GX4M1B3000C15)",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/9164-eI%2B%2BlL._SX679_.jpg",
+    "price": '3,275',
+    "category": {
+      "id": 1,
+      "name": "Computer Components"
+    },
+    "brand": "Corsair"
+  }{
+    "name": "Samsung LC24FG73FQMXZN 24 Inch Curved QLED Gaming Monitor",
+    "image": "https://www.egprices.com//images/thumb/lg-lc24fg73fqmxzn.jpg",
+    "price": '5,450',
+    "category": {
+      "id": 1,
+      "name": "Computer Parts"
+    },
+    "brand": "Samsung"
+  }{
+    "name": "MSI B450M MORTAR Socket AM4 Motherboard",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71pIqBH5qtL._SY741_.jpg",
+    "price": '2,050',
+    "category": {
+      "id": 2,
+      "name": "Computer Parts"
+    },
+    "brand": "MSI"
+  }{
+    "name": "Samsung 860 EVO Series 500GB Internal Solid State Drive (SSD) (MZ-76E500B/AM)",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61562OkQd3L._SX679_.jpg",
+    "price": '2,399',
+    "category": {
+      "id": 2,
+      "name": "Computer Parts"
+    },
+    "brand": "Samsung"
+  }{
+    "name": "Apple iPhone 6 a1549 16GB Space Gray Unlocked (Certified Refurbished)",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51bvItLxhqL.jpg",
+    "price": 173.97,
+    "category": {
+      "id": 2,
+      "name": "Mobile Phones"
+    },
+    "brand": "Apple"
+  }{
+    "name": "ASUS VivoBook S Thin & Light Laptop, 14 inch FHD, Intel Core i7-8550U up to 4.00 GHz, GeForce MX150, 8GB RAM, 256GB SSD, NanoEdge Bezel, Backlit Keyboard, FP Sensor - S410UN-NS74",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81CXyTkBjWL._SX679_.jpg",
+    "price": 799,
+    "category": {
+      "id": 3,
+      "name": "Laptops"
+    },
+    "brand": "Asus"
+  }{
+    "name": "HIDevolution Aorus X9 DT 17.3” FHD 144Hz G-Sync Gaming Laptop | 2.9 GHz i9-8950H, GTX 1080, 64GB DDR4/2666MHz RAM, PCIe 2TB SSD + 4TB SSD | Authorized Performance Upgrades & Warranty",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61t6xBAVFrL._SX679_.jpg",
+    "price": 7239,
+    "category": {
+      "id": 3,
+      "name": "Laptops"
+    },
+    "brand": "HIDevolution"
+  }
